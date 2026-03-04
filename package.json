@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "type": "module",
     "description": "Prettier formatter tool for projects",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tn3w/prtfm"
+    },
     "bin": {
         "prtfm": "./bin/prtfm.js"
     },
