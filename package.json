@@ -1,0 +1,26 @@
+{
+    "name": "prtf",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Prettier formatter tool for projects",
+    "bin": {
+        "prtf": "./bin/prtf.js"
+    },
+    "files": [
+        "bin",
+        "lib"
+    ],
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "prettier": "^3.0.0"
+    },
+    "keywords": [
+        "prettier",
+        "format",
+        "formatter",
+        "code-style"
+    ],
+    "license": "Apache-2.0"
+}
